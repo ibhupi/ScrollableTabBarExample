@@ -1,1055 +1,491 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>03ED6FE0507C2945C2F34BC0</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>Pods-ScrollingTabbar-ScrollableTabbar</string>
-			<key>target</key>
-			<string>960A67158BE4F3817FA294B0</string>
-			<key>targetProxy</key>
-			<string>1316EDA7A9643A3B82BF8C23</string>
-		</dict>
-		<key>0734B30CF57CA0664672BEE4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar-environment.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1316EDA7A9643A3B82BF8C23</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>392135F6AC654082C13CD2A9</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>960A67158BE4F3817FA294B0</string>
-			<key>remoteInfo</key>
-			<string>Pods-ScrollingTabbar-ScrollableTabbar</string>
-		</dict>
-		<key>1EB88622D50163704D5971FB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WTScrollableTabbarTab.h</string>
-			<key>path</key>
-			<string>ScrollableTabbar/WTScrollableTabbarTab.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CBF38950A0DC28144925A1B</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>61A1CF818A98C020BA919F27</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>37D12D82AF36DDB243AF15C3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>WTScrollableTabbar.m</string>
-			<key>path</key>
-			<string>ScrollableTabbar/WTScrollableTabbar.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>392135F6AC654082C13CD2A9</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0510</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>3CF0958A746A539E3ED7B866</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>8A1BC3212E0E5EBE072395E3</string>
-			<key>productRefGroup</key>
-			<string>3DC4A1BAF35608E0CD4A7390</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>3CB006FF60642D3069BA004B</string>
-				<string>960A67158BE4F3817FA294B0</string>
-			</array>
-		</dict>
-		<key>3CB006FF60642D3069BA004B</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>B8D0A99A84F007013AD2C663</string>
-			<key>buildPhases</key>
-			<array>
-				<string>CB251016DC38B5033A749B20</string>
-				<string>F87E8316F129E79C7281C391</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>03ED6FE0507C2945C2F34BC0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-ScrollingTabbar</string>
-			<key>productName</key>
-			<string>Pods-ScrollingTabbar</string>
-			<key>productReference</key>
-			<string>49C850743640C71E125C4A0F</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>3CF0958A746A539E3ED7B866</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>9E5CA98C179EBD2185679BA9</string>
-				<string>FB00EC3DF44A892509F47C04</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>3DC4A1BAF35608E0CD4A7390</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>49C850743640C71E125C4A0F</string>
-				<string>E57ECC95D366459034EF82A0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>48F4144C5704EE3927363DB0</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>FF4B4660C28B357914E7EC1D</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-ScrollingTabbar-ScrollableTabbar/Pods-ScrollingTabbar-ScrollableTabbar-prefix.pch</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>49C850743640C71E125C4A0F</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-ScrollingTabbar.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>4B42078E533B8833564D51E8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FD915810A95AD6ED3002188A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4ECCEDE94938A2AEE3F74FEC</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>745E67D10FAB5F8774C2174A</string>
-				<string>FACE9E6D25412AE980F16EA9</string>
-				<string>583EC341F4D012FFD7161B08</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>511B8B842FF3B2C13FD955EA</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>ABB76E50BBDA841D1898CDCF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>53FC00C34798330E3E52FE1F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>WTScrollableTabbarTab.m</string>
-			<key>path</key>
-			<string>ScrollableTabbar/WTScrollableTabbarTab.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>583EC341F4D012FFD7161B08</key>
-		<dict>
-			<key>fileRef</key>
-			<string>53FC00C34798330E3E52FE1F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-DOS_OBJECT_USE_OBJC=0</string>
-			</dict>
-		</dict>
-		<key>60BE3B7EF00EF3269FBC5D1F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>61A1CF818A98C020BA919F27</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6B0233ECCB8EF2AC92385AD8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FD915810A95AD6ED3002188A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7027C03DA9F952643C12F53B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WTScrollableTabbar.h</string>
-			<key>path</key>
-			<string>ScrollableTabbar/WTScrollableTabbar.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>72C0A490F3C47D1D25D59624</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>745E67D10FAB5F8774C2174A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B070A5D2C1391C91B3AAA986</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>767A5FCA626DE1C17333868A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>72C0A490F3C47D1D25D59624</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>76BEA73752C9743E084AB5E4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7027C03DA9F952643C12F53B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>784D9F98421BD012B446C2E1</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>76BEA73752C9743E084AB5E4</string>
-				<string>B6139D2BCC96C2A93143A3F7</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7A2129DE292724E9C8B4BB7D</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>48F4144C5704EE3927363DB0</string>
-				<string>EFBB7571CE9D0ED9DC860E9B</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>7A9394772FF7C5F29CB36114</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>FD915810A95AD6ED3002188A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7BCA1C2DC396748C7A0EE1ED</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar-ScrollableTabbar.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>844EF29AB6741000B4760117</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8A1BC3212E0E5EBE072395E3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>8DC1A542C4DFCDE096C0435B</string>
-				<string>C70945CFB7A8963904BD1E1B</string>
-				<string>511B8B842FF3B2C13FD955EA</string>
-				<string>3DC4A1BAF35608E0CD4A7390</string>
-				<string>D0CAF00E37FF46BF2A2A4E66</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8DC1A542C4DFCDE096C0435B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>960A67158BE4F3817FA294B0</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>7A2129DE292724E9C8B4BB7D</string>
-			<key>buildPhases</key>
-			<array>
-				<string>4ECCEDE94938A2AEE3F74FEC</string>
-				<string>A21A3BED67C48B5EF2662A2E</string>
-				<string>784D9F98421BD012B446C2E1</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-ScrollingTabbar-ScrollableTabbar</string>
-			<key>productName</key>
-			<string>Pods-ScrollingTabbar-ScrollableTabbar</string>
-			<key>productReference</key>
-			<string>E57ECC95D366459034EF82A0</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>9E5CA98C179EBD2185679BA9</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>A21A3BED67C48B5EF2662A2E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>4B42078E533B8833564D51E8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>AB972D06F432797AE043A229</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>ECA5E4A4268D0C141A303341</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Resources</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>ABB76E50BBDA841D1898CDCF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7027C03DA9F952643C12F53B</string>
-				<string>37D12D82AF36DDB243AF15C3</string>
-				<string>1EB88622D50163704D5971FB</string>
-				<string>53FC00C34798330E3E52FE1F</string>
-				<string>AB972D06F432797AE043A229</string>
-				<string>EF5E0B7D3594789ED2AC87A1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ScrollableTabbar</string>
-			<key>path</key>
-			<string>ScrollableTabbar</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B070A5D2C1391C91B3AAA986</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar-ScrollableTabbar-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B6139D2BCC96C2A93143A3F7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1EB88622D50163704D5971FB</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B8D0A99A84F007013AD2C663</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>FC3743C1B391FF5390596F05</string>
-				<string>2CBF38950A0DC28144925A1B</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>C70945CFB7A8963904BD1E1B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7A9394772FF7C5F29CB36114</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CB251016DC38B5033A749B20</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>767A5FCA626DE1C17333868A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>D0CAF00E37FF46BF2A2A4E66</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D7B421FBE4298FD0CD1B860A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D5A55FD9143ADAA5E6246D11</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D7B421FBE4298FD0CD1B860A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>844EF29AB6741000B4760117</string>
-				<string>60BE3B7EF00EF3269FBC5D1F</string>
-				<string>72C0A490F3C47D1D25D59624</string>
-				<string>0734B30CF57CA0664672BEE4</string>
-				<string>FD714CBB3D9E2303408F74EE</string>
-				<string>D5A55FD9143ADAA5E6246D11</string>
-				<string>61A1CF818A98C020BA919F27</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-ScrollingTabbar</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-ScrollingTabbar</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DDA0BC004587D9254E7AFDAA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar-ScrollableTabbar-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E57ECC95D366459034EF82A0</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-ScrollingTabbar-ScrollableTabbar.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>ECA5E4A4268D0C141A303341</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.xib</string>
-			<key>name</key>
-			<string>WTScrollableTabbarTab.xib</string>
-			<key>path</key>
-			<string>ScrollableTabbar/WTScrollableTabbarTab.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EF5E0B7D3594789ED2AC87A1</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7BCA1C2DC396748C7A0EE1ED</string>
-				<string>FF4B4660C28B357914E7EC1D</string>
-				<string>B070A5D2C1391C91B3AAA986</string>
-				<string>DDA0BC004587D9254E7AFDAA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/Pods-ScrollingTabbar-ScrollableTabbar</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EFBB7571CE9D0ED9DC860E9B</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>FF4B4660C28B357914E7EC1D</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-ScrollingTabbar-ScrollableTabbar/Pods-ScrollingTabbar-ScrollableTabbar-prefix.pch</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>F87E8316F129E79C7281C391</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>6B0233ECCB8EF2AC92385AD8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>FACE9E6D25412AE980F16EA9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>37D12D82AF36DDB243AF15C3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-DOS_OBJECT_USE_OBJC=0</string>
-			</dict>
-		</dict>
-		<key>FB00EC3DF44A892509F47C04</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>RELEASE=1</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>FC3743C1B391FF5390596F05</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>D5A55FD9143ADAA5E6246D11</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>FD714CBB3D9E2303408F74EE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FD915810A95AD6ED3002188A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>FF4B4660C28B357914E7EC1D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ScrollingTabbar-ScrollableTabbar-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>392135F6AC654082C13CD2A9</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4B42078E533B8833564D51E8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD915810A95AD6ED3002188A /* Foundation.framework */; };
+		583EC341F4D012FFD7161B08 /* WTScrollableTabbarTab.m in Sources */ = {isa = PBXBuildFile; fileRef = 53FC00C34798330E3E52FE1F /* WTScrollableTabbarTab.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		6B0233ECCB8EF2AC92385AD8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD915810A95AD6ED3002188A /* Foundation.framework */; };
+		745E67D10FAB5F8774C2174A /* Pods-ScrollingTabbar-ScrollableTabbar-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B070A5D2C1391C91B3AAA986 /* Pods-ScrollingTabbar-ScrollableTabbar-dummy.m */; };
+		767A5FCA626DE1C17333868A /* Pods-ScrollingTabbar-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 72C0A490F3C47D1D25D59624 /* Pods-ScrollingTabbar-dummy.m */; };
+		76BEA73752C9743E084AB5E4 /* WTScrollableTabbar.h in Headers */ = {isa = PBXBuildFile; fileRef = 7027C03DA9F952643C12F53B /* WTScrollableTabbar.h */; };
+		B6139D2BCC96C2A93143A3F7 /* WTScrollableTabbarTab.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EB88622D50163704D5971FB /* WTScrollableTabbarTab.h */; };
+		FACE9E6D25412AE980F16EA9 /* WTScrollableTabbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 37D12D82AF36DDB243AF15C3 /* WTScrollableTabbar.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1316EDA7A9643A3B82BF8C23 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 392135F6AC654082C13CD2A9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 960A67158BE4F3817FA294B0;
+			remoteInfo = "Pods-ScrollingTabbar-ScrollableTabbar";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0734B30CF57CA0664672BEE4 /* Pods-ScrollingTabbar-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ScrollingTabbar-environment.h"; sourceTree = "<group>"; };
+		1EB88622D50163704D5971FB /* WTScrollableTabbarTab.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WTScrollableTabbarTab.h; path = ScrollableTabbar/WTScrollableTabbarTab.h; sourceTree = "<group>"; };
+		37D12D82AF36DDB243AF15C3 /* WTScrollableTabbar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WTScrollableTabbar.m; path = ScrollableTabbar/WTScrollableTabbar.m; sourceTree = "<group>"; };
+		49C850743640C71E125C4A0F /* libPods-ScrollingTabbar.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ScrollingTabbar.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		53FC00C34798330E3E52FE1F /* WTScrollableTabbarTab.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WTScrollableTabbarTab.m; path = ScrollableTabbar/WTScrollableTabbarTab.m; sourceTree = "<group>"; };
+		60BE3B7EF00EF3269FBC5D1F /* Pods-ScrollingTabbar-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ScrollingTabbar-acknowledgements.plist"; sourceTree = "<group>"; };
+		61A1CF818A98C020BA919F27 /* Pods-ScrollingTabbar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ScrollingTabbar.release.xcconfig"; sourceTree = "<group>"; };
+		7027C03DA9F952643C12F53B /* WTScrollableTabbar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WTScrollableTabbar.h; path = ScrollableTabbar/WTScrollableTabbar.h; sourceTree = "<group>"; };
+		72C0A490F3C47D1D25D59624 /* Pods-ScrollingTabbar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ScrollingTabbar-dummy.m"; sourceTree = "<group>"; };
+		7BCA1C2DC396748C7A0EE1ED /* Pods-ScrollingTabbar-ScrollableTabbar.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ScrollingTabbar-ScrollableTabbar.xcconfig"; sourceTree = "<group>"; };
+		844EF29AB6741000B4760117 /* Pods-ScrollingTabbar-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ScrollingTabbar-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8DC1A542C4DFCDE096C0435B /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B070A5D2C1391C91B3AAA986 /* Pods-ScrollingTabbar-ScrollableTabbar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ScrollingTabbar-ScrollableTabbar-dummy.m"; sourceTree = "<group>"; };
+		D5A55FD9143ADAA5E6246D11 /* Pods-ScrollingTabbar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ScrollingTabbar.debug.xcconfig"; sourceTree = "<group>"; };
+		DDA0BC004587D9254E7AFDAA /* Pods-ScrollingTabbar-ScrollableTabbar-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ScrollingTabbar-ScrollableTabbar-prefix.pch"; sourceTree = "<group>"; };
+		E57ECC95D366459034EF82A0 /* libPods-ScrollingTabbar-ScrollableTabbar.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ScrollingTabbar-ScrollableTabbar.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECA5E4A4268D0C141A303341 /* WTScrollableTabbarTab.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; name = WTScrollableTabbarTab.xib; path = ScrollableTabbar/WTScrollableTabbarTab.xib; sourceTree = "<group>"; };
+		FD714CBB3D9E2303408F74EE /* Pods-ScrollingTabbar-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ScrollingTabbar-resources.sh"; sourceTree = "<group>"; };
+		FD915810A95AD6ED3002188A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		FF4B4660C28B357914E7EC1D /* Pods-ScrollingTabbar-ScrollableTabbar-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ScrollingTabbar-ScrollableTabbar-Private.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A21A3BED67C48B5EF2662A2E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B42078E533B8833564D51E8 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F87E8316F129E79C7281C391 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B0233ECCB8EF2AC92385AD8 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3DC4A1BAF35608E0CD4A7390 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				49C850743640C71E125C4A0F /* libPods-ScrollingTabbar.a */,
+				E57ECC95D366459034EF82A0 /* libPods-ScrollingTabbar-ScrollableTabbar.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		511B8B842FF3B2C13FD955EA /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				ABB76E50BBDA841D1898CDCF /* ScrollableTabbar */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		7A9394772FF7C5F29CB36114 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				FD915810A95AD6ED3002188A /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		8A1BC3212E0E5EBE072395E3 = {
+			isa = PBXGroup;
+			children = (
+				8DC1A542C4DFCDE096C0435B /* Podfile */,
+				C70945CFB7A8963904BD1E1B /* Frameworks */,
+				511B8B842FF3B2C13FD955EA /* Pods */,
+				3DC4A1BAF35608E0CD4A7390 /* Products */,
+				D0CAF00E37FF46BF2A2A4E66 /* Targets Support Files */,
+			);
+			indentWidth = 4;
+			sourceTree = "<group>";
+			usesTabs = 0;
+		};
+		AB972D06F432797AE043A229 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ECA5E4A4268D0C141A303341 /* WTScrollableTabbarTab.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		ABB76E50BBDA841D1898CDCF /* ScrollableTabbar */ = {
+			isa = PBXGroup;
+			children = (
+				7027C03DA9F952643C12F53B /* WTScrollableTabbar.h */,
+				37D12D82AF36DDB243AF15C3 /* WTScrollableTabbar.m */,
+				1EB88622D50163704D5971FB /* WTScrollableTabbarTab.h */,
+				53FC00C34798330E3E52FE1F /* WTScrollableTabbarTab.m */,
+				AB972D06F432797AE043A229 /* Resources */,
+				EF5E0B7D3594789ED2AC87A1 /* Support Files */,
+			);
+			path = ScrollableTabbar;
+			sourceTree = "<group>";
+		};
+		C70945CFB7A8963904BD1E1B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7A9394772FF7C5F29CB36114 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D0CAF00E37FF46BF2A2A4E66 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				D7B421FBE4298FD0CD1B860A /* Pods-ScrollingTabbar */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		D7B421FBE4298FD0CD1B860A /* Pods-ScrollingTabbar */ = {
+			isa = PBXGroup;
+			children = (
+				844EF29AB6741000B4760117 /* Pods-ScrollingTabbar-acknowledgements.markdown */,
+				60BE3B7EF00EF3269FBC5D1F /* Pods-ScrollingTabbar-acknowledgements.plist */,
+				72C0A490F3C47D1D25D59624 /* Pods-ScrollingTabbar-dummy.m */,
+				0734B30CF57CA0664672BEE4 /* Pods-ScrollingTabbar-environment.h */,
+				FD714CBB3D9E2303408F74EE /* Pods-ScrollingTabbar-resources.sh */,
+				D5A55FD9143ADAA5E6246D11 /* Pods-ScrollingTabbar.debug.xcconfig */,
+				61A1CF818A98C020BA919F27 /* Pods-ScrollingTabbar.release.xcconfig */,
+			);
+			name = "Pods-ScrollingTabbar";
+			path = "Target Support Files/Pods-ScrollingTabbar";
+			sourceTree = "<group>";
+		};
+		EF5E0B7D3594789ED2AC87A1 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				7BCA1C2DC396748C7A0EE1ED /* Pods-ScrollingTabbar-ScrollableTabbar.xcconfig */,
+				FF4B4660C28B357914E7EC1D /* Pods-ScrollingTabbar-ScrollableTabbar-Private.xcconfig */,
+				B070A5D2C1391C91B3AAA986 /* Pods-ScrollingTabbar-ScrollableTabbar-dummy.m */,
+				DDA0BC004587D9254E7AFDAA /* Pods-ScrollingTabbar-ScrollableTabbar-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Pods-ScrollingTabbar-ScrollableTabbar";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		784D9F98421BD012B446C2E1 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				76BEA73752C9743E084AB5E4 /* WTScrollableTabbar.h in Headers */,
+				B6139D2BCC96C2A93143A3F7 /* WTScrollableTabbarTab.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		3CB006FF60642D3069BA004B /* Pods-ScrollingTabbar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B8D0A99A84F007013AD2C663 /* Build configuration list for PBXNativeTarget "Pods-ScrollingTabbar" */;
+			buildPhases = (
+				CB251016DC38B5033A749B20 /* Sources */,
+				F87E8316F129E79C7281C391 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				03ED6FE0507C2945C2F34BC0 /* PBXTargetDependency */,
+			);
+			name = "Pods-ScrollingTabbar";
+			productName = "Pods-ScrollingTabbar";
+			productReference = 49C850743640C71E125C4A0F /* libPods-ScrollingTabbar.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		960A67158BE4F3817FA294B0 /* Pods-ScrollingTabbar-ScrollableTabbar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7A2129DE292724E9C8B4BB7D /* Build configuration list for PBXNativeTarget "Pods-ScrollingTabbar-ScrollableTabbar" */;
+			buildPhases = (
+				4ECCEDE94938A2AEE3F74FEC /* Sources */,
+				A21A3BED67C48B5EF2662A2E /* Frameworks */,
+				784D9F98421BD012B446C2E1 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-ScrollingTabbar-ScrollableTabbar";
+			productName = "Pods-ScrollingTabbar-ScrollableTabbar";
+			productReference = E57ECC95D366459034EF82A0 /* libPods-ScrollingTabbar-ScrollableTabbar.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		392135F6AC654082C13CD2A9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = 3CF0958A746A539E3ED7B866 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8A1BC3212E0E5EBE072395E3;
+			productRefGroup = 3DC4A1BAF35608E0CD4A7390 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3CB006FF60642D3069BA004B /* Pods-ScrollingTabbar */,
+				960A67158BE4F3817FA294B0 /* Pods-ScrollingTabbar-ScrollableTabbar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4ECCEDE94938A2AEE3F74FEC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				745E67D10FAB5F8774C2174A /* Pods-ScrollingTabbar-ScrollableTabbar-dummy.m in Sources */,
+				FACE9E6D25412AE980F16EA9 /* WTScrollableTabbar.m in Sources */,
+				583EC341F4D012FFD7161B08 /* WTScrollableTabbarTab.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CB251016DC38B5033A749B20 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				767A5FCA626DE1C17333868A /* Pods-ScrollingTabbar-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		03ED6FE0507C2945C2F34BC0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-ScrollingTabbar-ScrollableTabbar";
+			target = 960A67158BE4F3817FA294B0 /* Pods-ScrollingTabbar-ScrollableTabbar */;
+			targetProxy = 1316EDA7A9643A3B82BF8C23 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2CBF38950A0DC28144925A1B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 61A1CF818A98C020BA919F27 /* Pods-ScrollingTabbar.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		48F4144C5704EE3927363DB0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FF4B4660C28B357914E7EC1D /* Pods-ScrollingTabbar-ScrollableTabbar-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-ScrollingTabbar-ScrollableTabbar/Pods-ScrollingTabbar-ScrollableTabbar-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		9E5CA98C179EBD2185679BA9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+			};
+			name = Debug;
+		};
+		EFBB7571CE9D0ED9DC860E9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FF4B4660C28B357914E7EC1D /* Pods-ScrollingTabbar-ScrollableTabbar-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-ScrollingTabbar-ScrollableTabbar/Pods-ScrollingTabbar-ScrollableTabbar-prefix.pch";
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FB00EC3DF44A892509F47C04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				STRIP_INSTALLED_PRODUCT = NO;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FC3743C1B391FF5390596F05 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D5A55FD9143ADAA5E6246D11 /* Pods-ScrollingTabbar.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3CF0958A746A539E3ED7B866 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9E5CA98C179EBD2185679BA9 /* Debug */,
+				FB00EC3DF44A892509F47C04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7A2129DE292724E9C8B4BB7D /* Build configuration list for PBXNativeTarget "Pods-ScrollingTabbar-ScrollableTabbar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				48F4144C5704EE3927363DB0 /* Debug */,
+				EFBB7571CE9D0ED9DC860E9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B8D0A99A84F007013AD2C663 /* Build configuration list for PBXNativeTarget "Pods-ScrollingTabbar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC3743C1B391FF5390596F05 /* Debug */,
+				2CBF38950A0DC28144925A1B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 392135F6AC654082C13CD2A9 /* Project object */;
+}

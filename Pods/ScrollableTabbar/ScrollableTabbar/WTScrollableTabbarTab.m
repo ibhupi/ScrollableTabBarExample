@@ -51,6 +51,21 @@
     {
         self.label.textColor = tabItem.textColor;
     }
+	self.layer.cornerRadius = 4.0;
+}
+
+- (void)setHighlighted:(BOOL)highlighted
+{
+	if (highlighted)
+	{
+		self.backgroundColor = [UIColor lightGrayColor];
+		self.imageView.alpha = 0.6;
+	}
+	else
+	{
+		self.backgroundColor = [UIColor clearColor];
+		self.imageView.alpha = 1;
+	}
 }
 
 @end
