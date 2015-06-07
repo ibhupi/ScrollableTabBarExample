@@ -1,49 +1,29 @@
-# ScrollableTabBar Example 
-Scrollable Tab Bar can be use to display scrollable tab bar. It's very easy to use.
+//
+//  ViewController.m
+//  ScrollingTabbar
+//
+//  Created by Bhupendra Singh on 6/7/15.
+//  Copyright (c) 2015 Bhupendra Singh. All rights reserved.
+//
 
-<b><a href="https://github.com/ibhupi/ScrollableTabBar">Scrollable Tabbar Library here</a></b>
+#import "ViewController.h"
+#import "WTScrollableTabbar.h"
 
-<br />
-Usage
-<b>
-Podfile
-</b>
-```
-platform :ios, '7.0'
-pod 'ScrollableTabbar', :git => 'git@github.com:ibhupi/ScrollableTabBar.git'
-```
+@interface ViewController () <WTScrollableTabbarDelegate>
 
-<b>
-To display scrollable tab bar call this method
-[WTScrollableTabbar scrollableTabbarWithTabItems:frame:tabBarDelegate:]
-```
-/**
- * Initialize scrollable tab bar with this handy to use method
- * @param tabItems, array of WTScrollableTabbarTabItem
- * @param frame, frame size of tabbar to be used
- * @param tabBarDelegate, to listen when and which tab tapped
- *
- * @return tabItems, array of WTScrollableTabbarTabItem
- * @warning tabItem must contain image or text to display in tab
- */
-+ (WTScrollableTabbar *)scrollableTabbarWithTabItems:(NSArray *)tabItems
-												frame:(CGRect)frame
-									   tabBarDelegate:(id<WTScrollableTabbarDelegate>)tabBarDelegate;
-```
-</b>
+@property (strong, nonatomic) IBOutlet UIImageView *imageView;
+@property (strong, nonatomic) IBOutlet UILabel *label;
 
-<b>
-Screen with Scrollable Tabs, Scrolling around Scrollable Tabs<br />
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen1.png" width="250" alt="Screen with Scrollable Tabs"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen2.png" width="250" alt="Scrolling around Scrollable Tabs"/><br /><br />
-Selecting Github, RSS in Scrollable Tabs<br />
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen3.png" width="250" alt="Selecting Github"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen4.png" width="250" alt="RSS in Scrollable Tabs"/>
+@end
 
-</b>
+@implementation ViewController
 
-Sample code to be used from main project to display scrollable tab bar
-```
+- (void)viewDidLoad
+{
+	[super viewDidLoad];
+	// Do any additional setup after loading the view, typically from a nib.
+}
+
 - (void)viewDidAppear:(BOOL)animated
 {
     [super viewDidAppear:animated];
@@ -108,4 +88,6 @@ Sample code to be used from main project to display scrollable tab bar
     UIColor *color = [UIColor colorWithHue:hue saturation:saturation brightness:brightness alpha:1];
     return color;
 }
-```
+
+
+@end

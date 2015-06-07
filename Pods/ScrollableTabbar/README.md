@@ -1,7 +1,5 @@
-# ScrollableTabBar Example 
+# ScrollableTabBar
 Scrollable Tab Bar can be use to display scrollable tab bar. It's very easy to use.
-
-<b><a href="https://github.com/ibhupi/ScrollableTabBar">Scrollable Tabbar Library here</a></b>
 
 <br />
 Usage
@@ -10,7 +8,7 @@ Podfile
 </b>
 ```
 platform :ios, '7.0'
-pod 'ScrollableTabbar', :git => 'git@github.com:ibhupi/ScrollableTabBar.git'
+pod "ScrollableTabbar", "~> 1.0.0"
 ```
 
 <b>
@@ -30,16 +28,6 @@ To display scrollable tab bar call this method
 												frame:(CGRect)frame
 									   tabBarDelegate:(id<WTScrollableTabbarDelegate>)tabBarDelegate;
 ```
-</b>
-
-<b>
-Screen with Scrollable Tabs, Scrolling around Scrollable Tabs<br />
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen1.png" width="250" alt="Screen with Scrollable Tabs"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen2.png" width="250" alt="Scrolling around Scrollable Tabs"/><br /><br />
-Selecting Github, RSS in Scrollable Tabs<br />
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen3.png" width="250" alt="Selecting Github"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen4.png" width="250" alt="RSS in Scrollable Tabs"/>
-
 </b>
 
 Sample code to be used from main project to display scrollable tab bar

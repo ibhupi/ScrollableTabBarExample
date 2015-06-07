@@ -1,0 +1,19 @@
+PODS:
+  - ScrollableTabbar (1.0.0)
+
+DEPENDENCIES:
+  - ScrollableTabbar (from `git@github.com:ibhupi/ScrollableTabBar.git`)
+
+EXTERNAL SOURCES:
+  ScrollableTabbar:
+    :git: git@github.com:ibhupi/ScrollableTabBar.git
+
+CHECKOUT OPTIONS:
+  ScrollableTabbar:
+    :commit: 30203866c55591e054ad2efbbe36445089f9eb7b
+    :git: git@github.com:ibhupi/ScrollableTabBar.git
+
+SPEC CHECKSUMS:
+  ScrollableTabbar: f3b55c52f706a40b524f7b3cfc949c1b3fda3ad0
+
+COCOAPODS: 0.35.0
