@@ -1,6 +1,8 @@
 # ScrollableTabBar Example 
 Scrollable Tab Bar can be use to display scrollable tab bar. It's very easy to use.
 
+<b><a href="https://github.com/ibhupi/ScrollableTabBar">Scrollable Tabbar Library here</a></b>
+
 <br />
 Usage
 <b>
